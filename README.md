@@ -8,7 +8,7 @@
 |---|---|
 | `tutorial.pdf` | 完整教學（39 頁）：環境安裝、流程、提示詞寫法、錯誤排除、上架與稅務 |
 | `靜態一鍵.py` | 自動處理腳本 |
-
+**[點此下載教學 PDF](https://github.com/Yang-creator0101/line-sticker-ai/raw/main/tutorial.pdf)**
 ## 怎麼開始
 
 1. 先讀 `tutorial.pdf` 的第 1～5 章。**也可以把 PDF 直接丟給你的 AI，請它一步步帶你做。**
